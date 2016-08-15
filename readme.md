@@ -1,4 +1,4 @@
-# Mean Ninja [![Build Status]()]
+# Mean Ninja
 
 > Seattle Ninja Mean App - Nothing Special
 
@@ -9,5 +9,5 @@ This is a starting point.
 
 For more info regarding random code and rants [this blog.](http://ninjaseattle.com/blog)
 
-Install `angularjs`, `grunt-cli`, and `a lot of love`:
+Install `nodejs`, `express`, `angularjs`, `mongodb`, `grunt-cli`, and `a lot of love`.
 ```
